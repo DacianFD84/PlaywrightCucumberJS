@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/DacianFD84/PlaywrightCucumberJS.git
+git push -u origin main
+git pull origin main
+git push origin main
+git push origin main
+git pull origin main --allow-unrelated-histories
